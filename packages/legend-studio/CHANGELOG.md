@@ -1,5 +1,11 @@
 # @finos/legend-studio
 
+## 10.3.0
+
+### Minor Changes
+
+- [#1252](https://github.com/finos/legend-studio/pull/1252) [`790665dd`](https://github.com/finos/legend-studio/commit/790665dd1b34b3f06c96ab4b7afd3425f70ca73d) ([@akphi](https://github.com/akphi)) - Allow the project dependency configuration to contain `HEAD` as a alid version option and added restrictions on review-creation to ensure no project dependency is set to the `HEAD` option in the project.
+
 ## 10.2.1
 
 ## 10.2.0
